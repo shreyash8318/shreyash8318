@@ -8,14 +8,6 @@
 ## 🛠️ Tech Stack
 C++ | JavaScript | Node.js | Express | MongoDB | Git | GitHub
 
-## 📈 GitHub Stats
-
-## 🔥 Streak Stats
-
-## 📊 Contribution Graph
-
-## 📫 Connect with Me
-LinkedIn | Email | LeetCode
 
 <!--
 **shreyash8318/shreyash8318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
