@@ -4,6 +4,8 @@
 - 🎓 B.Tech Student
 - 💻 Learning Backend Development
 - 🧠 Solving DSA on LeetCode
+- Learning System design
+  
 
 ## 🛠️ Tech Stack
 C++ | JavaScript | Node.js | Express | MongoDB | Git | GitHub
