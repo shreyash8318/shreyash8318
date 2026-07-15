@@ -8,7 +8,7 @@
   
 
 ## 🛠️ Tech Stack
-C++ | JavaScript | Node.js | Express | MongoDB | GitHub
+C++ | JavaScript | Node.js | Express | MongoDB | Git | GitHub
 
 
 <!--
