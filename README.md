@@ -4,7 +4,7 @@
 - 🎓 B.Tech Student
 - 💻 Learning Backend Development
 - 🧠 Solving DSA on LeetCode
-- Learning System design
+
   
 
 ## 🛠️ Tech Stack
