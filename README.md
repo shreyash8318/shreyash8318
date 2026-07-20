@@ -1,6 +1,6 @@
-<h1 align="center"><span style="color:#ff3366;">Backend Developer</span></h1>
-<h3 align="center">Shreyash Gupta</h3>
+<h1 align="center">Hi, I'm Shreyash Gupta 👋</h1>
 <p align="center">🚀 Dedicated Backend Engineer & Problem Solver</p>
+<h3 align="center">Backend Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -12,8 +12,11 @@
 ## About Me
 
 •⁠  ⁠👨‍💻 *B-Tech third-year student* focusing entirely on building robust, scalable backend architectures.
+
 •⁠  ⁠🧠 *Avid Problem Solver:* Actively sharpening my data structures and algorithmic skills by tackling challenges daily on *LeetCode*.
-•⁠  ⁠⚙️ *Continuous Learner:* Currently diving deep into the fundamentals of *System Design* to understand how to build reliable, high-      availability software.
+
+•⁠  ⁠⚙️ *Continuous Learner:* Currently diving deep into the fundamentals of *System Design* to understand how to build reliable, high-availability software.
+
 •⁠  ⁠🔐 Fascinated by secure architectures, RESTful API design, and authorization mechanisms.
 
 ---
