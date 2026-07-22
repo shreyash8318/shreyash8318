@@ -10,7 +10,7 @@
 
 ## About Me
 
-•⁠  ⁠👨‍💻 *B-Tech third-year student* focusing entirely on building robust, scalable backend architectures.
+•⁠  ⁠👨‍💻 *BTech third-year student* focusing entirely on building robust, scalable backend architectures.
 
 •⁠  ⁠🧠 *Avid Problem Solver:* Actively sharpening my data structures and algorithmic skills by tackling challenges daily on *LeetCode*.
 
